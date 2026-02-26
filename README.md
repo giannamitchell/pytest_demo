@@ -2,7 +2,7 @@
 
 Welcome! This repository is designed to help you learn **GitHub Actions** - a powerful CI/CD (Continuous Integration/Continuous Deployment) tool that automates tasks in your software development workflow.
 
-## 📚 What You'll Learn
+## 📚 What You'll Learn 
 
 By the end of this tutorial, you will understand:
 - What GitHub Actions is and why it's useful
